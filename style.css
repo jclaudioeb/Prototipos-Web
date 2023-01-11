@@ -430,6 +430,7 @@ p{
         margin-top: 5%;
         padding: 5px;
         height: 100vh;
+        overflow-y: scroll;
     }
     .cuerpo2 ul{
         margin-left: 10px;
